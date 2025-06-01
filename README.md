@@ -1,0 +1,2 @@
+# SuperAutoClicker
+Super auto clicker
